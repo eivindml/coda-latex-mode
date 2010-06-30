@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbols>
+   
+    <symbol id="Section" image="SymbolS"> 
+        
+        <regex>\\section[^{]*{([^}]*(?=})[^{]*)}</regex> <!-- Finds Section -->
+                
+    </symbol>
+
+    <symbol id="Subsection" image="SymbolP">
+       
+	   <regex>\\subsection[^{]*{([^}]*(?=})[^{]*)}</regex> <!-- Finds Subsection -->
+    
+	</symbol>
+    
+</symbols>

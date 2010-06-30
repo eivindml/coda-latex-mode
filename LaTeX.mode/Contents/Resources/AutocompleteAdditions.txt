@@ -1,0 +1,10 @@
+\begin{document}
+\end{document}
+\usepackage
+\maketitle
+\newpage
+\documentclass
+\section{Heading}
+\subsection{SubHeading}
+\title{Document title}
+\author{Author}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <recognition>
+    <extension>tex</extension> <!-- Add file extensions -->
+	<extension>TEX</extension>
+	<extension>latex</extension>
+  </recognition>
+</settings>
